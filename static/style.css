@@ -22,12 +22,39 @@
 	margin-right: auto;
 	color: #e4e0e0;
 }
+dd.bg-image {
+	background-image: url("../static/image.jpg");
+	/* Add the blur effect */
+	filter: blur(8px);
+	-webkit-filter: blur(8px);
+	
+	/* Full height */
+	height: 100%; 
+	
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 
 #content {
-	background-image: url("../static/image.jpg");
+	
 	background-color: #181818;
 	font-family: 'Noto Sans JP', sans-serif;
+	background-image: url("../static/image.jpg");
+	/* Add the blur effect */
+	/*filter: blur(8px);
+	-webkit-filter: blur(8px);*/
+	
+	/* Full height */
+	height: 100%; 
+	
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
+
 
 #details {
 	margin-left: 50px;
