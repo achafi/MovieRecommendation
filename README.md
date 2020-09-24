@@ -25,10 +25,11 @@ Check out the live demo: ....
 Link to this project report with youtube demo: .....
 
 #### Technologies
-
-- Similarity Score
-- 
-- Ajax
+- Web scraping (Beautifulsoup4)
+- NLP : Reviews Sentiment Analysis
+- Similarity Score : Find and recommend movies to the user
+- Front End : Ajax, Html, css
+- Web application framework : Flask
 
 [Back To The Top](#Movie-Recommender-System-and-Reviews-Sentiment-Analysis)
 
