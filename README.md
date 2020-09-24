@@ -1,4 +1,8 @@
 # Movie Recommender System and Reviews Sentiment Analysis
+![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
+![Framework](https://img.shields.io/badge/Framework-Flask-red)
+![Frontend](https://img.shields.io/badge/Frontend-HTML/CSS/JS-green)
+![API](https://img.shields.io/badge/API-TMDB-fcba03)
 
 ![Project Image](static/front_search.PNG)
 ![Project Image](static/top_cast.PNG)
@@ -24,12 +28,9 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 Check out the live demo: ....
 Link to this project report with youtube demo: .....
 
-#### Technologies
-- Web scraping (Beautifulsoup4)
+#### Machine Learning algorithms
 - NLP : Reviews Sentiment Analysis
 - Similarity Score : Find and recommend movies to the user
-- Front End : Ajax, Html, css
-- Web application framework : Flask
 
 [Back To The Top](#Movie-Recommender-System-and-Reviews-Sentiment-Analysis)
 
