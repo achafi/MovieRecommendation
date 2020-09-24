@@ -55,8 +55,11 @@ Link to this project report with youtube demo: .....
 
 ---
 
-## Author Info
+## References
+.
+.
+.
+
 
 - Website - [Assia CHAFI](https://achafi.github.io/myportfolio/)
-
 [Back To The Top](#Movie-Recommender-System-and-Reviews-Sentiment-Analysis)
